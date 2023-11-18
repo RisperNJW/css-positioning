@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    height: 100vh;
+   
+
+    background: url('./Banner-Black-Student.jpeg') black no-repeat center; 
+}
+
+@media screen and (max-width: 768px){
+    body{
+        background: url('/ud.png') yellowgreen no-repeat center;
+    }
+}
+    
+
